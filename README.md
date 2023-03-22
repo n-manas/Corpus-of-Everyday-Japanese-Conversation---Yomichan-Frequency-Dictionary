@@ -13,3 +13,5 @@ https://www.ninjal.ac.jp/english/research/cr-project/project-3/institute/spoken-
 >Our project will develop a large-scale corpus of Japanese everyday conversation in a balanced manner. Since informants record their conversations in everyday situations by themselves, naturally occurring conversations can be collected. To build an empirical foundation for the corpus design, we conducted a survey of ordinary conversational behavior of about 250 adults."
 
 >Since there were several ranks included in the file, the overall rank was chosen to generate this frequency dictionary.
+
+## File employed to create dictionary provided.
