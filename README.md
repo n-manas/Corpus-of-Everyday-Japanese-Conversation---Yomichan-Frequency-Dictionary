@@ -1,3 +1,5 @@
+# Corpus of Everyday Japanese Conversation - Yomichan Frequency Dictionary
+
 File employed to create dictionary: yomichan_fre_dict_from_tsv.py
 
 ## Download
